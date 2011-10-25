@@ -12,7 +12,6 @@ International Vim conference in Tokyo, Japan
     * "The truth of Vim by unprecedented point of view" with ShougoMatsu
 * Tech talks
     * "(untitled)" with Kana Natsuno
-    * "My Unite plugins" with basyura
     * "Vim script getting started" with m-kanno
     * "Vim-pop8" jbking
     * "(something technological)" with ShougoMatsu
@@ -20,6 +19,7 @@ International Vim conference in Tokyo, Japan
     * "All about eskk.vim with vital.vim" with tyru
 * Lightening talks
     * "Start Vim script" with "choplin"
+    * "My Unite plugins" with basyura
     * "shiracha.vim" with shiracha
 
 ## Call for Presentation
