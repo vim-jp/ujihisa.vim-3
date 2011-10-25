@@ -1,5 +1,7 @@
 # ujihisa.vim\#2
 
+November 19 (Saturday), 2011
+
 International Vim conference in Tokyo, Japan
 
 ## Talks
@@ -52,3 +54,9 @@ Core time: 1pm to 5pm
 * 5pm Closing (by ujihisa)
 * 5:30pm Dinner
 * ~8pm Free talks
+
+## Participate
+
+<http://partake.in/events/b886679b-e8c0-44af-9df2-62a6e5cfd6ed>
+
+Only 100 people can come in. Please sign up in advance.
