@@ -2,7 +2,7 @@
 
 November 19 (Saturday), 2011
 
-International Vim conference in Tokyo, Japan
+An International Vim conference in Tokyo, Japan
 
 ## Talks
 
@@ -18,9 +18,9 @@ International Vim conference in Tokyo, Japan
     * "LiveCoding: implementing quickrun hook" with thinca
     * "All about eskk.vim with vital.vim" with tyru
 * Lightening talks
-    * "Start Vim script" with "choplin"
+    * "Start Vim script" with choplin
     * "My Unite plugins" with basyura
-    * "shiracha.vim" with shiracha
+    <!-- * "shiracha.vim" with shiracha -->
 
 ## Call for Presentation
 
@@ -47,8 +47,8 @@ mixi, inc
 
 Core time: 1pm to 5pm
 
-* 10am Open
-    * Free Hackathon
+* 12:30pm Open
+    * checkin
 * 1pm Welcome (by ujihisa)
 * 1pm ~ 5pm many presentations
 * 5pm Closing (by ujihisa)
