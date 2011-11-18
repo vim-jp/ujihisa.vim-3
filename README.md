@@ -13,12 +13,12 @@ An International Vim conference in Tokyo, Japan
 * Tech talks
     * "(untitled)" with Kana Natsuno
     * "Vim script getting started" with m-kanno
-    * "Vim-pop8" jbking
     * "(something technological)" with ShougoMatsu
     * "LiveCoding: implementing quickrun hook" with thinca
     * "All about eskk.vim with vital.vim" with tyru
 * Lightening talks
     * "Start Vim script" with choplin
+    * "Vim-pep8" jbking
     * "My Unite plugins" with basyura
     <!-- * "shiracha.vim" with shiracha -->
 
