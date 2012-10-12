@@ -66,6 +66,6 @@ Core time: 1pm to 5pm
 
 ## Participate
 
-<http://partake.in/events/edit/basic/7a8d6f41-53e1-47ca-b42c-3d0c18f7b900>
+<http://partake.in/events/7a8d6f41-53e1-47ca-b42c-3d0c18f7b900>
 
 Only 100 people can come in. Please sign up in advance.
