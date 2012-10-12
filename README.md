@@ -1,32 +1,37 @@
 # ujihisa.vim\#2
 
-November 19 (Saturday), 2011
+November 05 (Saturday), 2012
 
 An International Vim conference in Tokyo, Japan
 
 ## Talks
 
 * Keynotes
+<!--
     * "To be a good programmer" with ujihisa
     * "Illustrate Vim core source code, dissing" with KoRoN
     * "The truth of Vim by unprecedented point of view" with ShougoMatsu
+-->
 * Tech talks
+<!--
     * "(untitled)" with Kana Natsuno
     * "Vim script getting started" with m-kanno
     * "(something technological)" with ShougoMatsu
     * "LiveCoding: implementing quickrun hook" with thinca
     * "All about eskk.vim with vital.vim" with tyru
+-->
 * Lightening talks
+<!--
     * "Start Vim script" with choplin
     * "Vim-pep8" jbking
     * "My Unite plugins" with basyura
-    <!-- * "shiracha.vim" with shiracha -->
+-->
 
 ## Call for Presentation
 
 Direct application
 
-1. Fork [ujihisa.vim#2 repository](http://github)
+1. Fork [ujihisa.vim#3 repository](http://github.com/vim-jp/ujihisa.vim-3)
 2. Add your name, title and abstract in README.md
 3. Send a pull request
 
@@ -47,6 +52,7 @@ mixi, inc
 
 Core time: 1pm to 5pm
 
+<!--
 * 12:30pm Open
     * checkin
 * 1pm Welcome (by ujihisa)
@@ -54,9 +60,12 @@ Core time: 1pm to 5pm
 * 5pm Closing (by ujihisa)
 * 5:30pm Dinner
 * ~8pm Free talks
+-->
 
 ## Participate
 
+<!--
 <http://partake.in/events/b886679b-e8c0-44af-9df2-62a6e5cfd6ed>
 
 Only 100 people can come in. Please sign up in advance.
+-->
