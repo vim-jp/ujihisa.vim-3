@@ -7,7 +7,7 @@ An International Vim conference in Tokyo, Japan
 ## Talks
 
 * Keynotes
-    * "(untitled") by MURAOKA Taro a.k.a. Kaoriya
+    * "(untitled") with [MURAOKA Taro a.k.a. Kaoriya](http://github.com/koron)
         * MURAOKA Taro: one year report from vim-jp, and future of Vim.
         * <http://www.kaoriya.net/>
 <!--
@@ -17,8 +17,8 @@ An International Vim conference in Tokyo, Japan
 -->
 
 * Tech talks
-    * "(untitled)" with thinca
-    * "Type conversions in Vim script" with tyru
+    * "All about vital.vim" with [thinca](http://github.com/thinca)
+    * "Type conversions in Vim script" with [tyru](http://github.com/tyru)
 
 * Lightening talks
 <!--
