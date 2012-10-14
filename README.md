@@ -1,6 +1,6 @@
 # ujihisa.vim\#3
 
-November 05 (Saturday), 2012
+November 03 (Saturday), 2012
 
 An International Vim conference in Tokyo, Japan
 
