@@ -19,6 +19,7 @@ An International Vim conference in Tokyo, Japan
 * Tech talks
     * "All about vital.vim" with [thinca](http://github.com/thinca)
     * "Type conversions in Vim script" with [tyru](http://github.com/tyru)
+    * "(untitled)" with [deris0126](http://github.com/deris)
 
 * Lightening talks
 <!--
