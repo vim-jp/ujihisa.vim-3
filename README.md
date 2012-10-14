@@ -42,13 +42,10 @@ Indirect application
 
 ## Venue
 
-undefined
-<!--
 mixi, inc
 
 * 〒150-0011 東京都渋谷区東1-2-20 住友不動産渋谷ファーストタワー7F
 * <http://mixi.co.jp/profile/info/#map>
--->
 
 ## Schedule
 
