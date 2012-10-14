@@ -10,11 +10,9 @@ An International Vim conference in Tokyo, Japan
     * "(untitled") with [MURAOKA Taro a.k.a. Kaoriya](http://github.com/koron)
         * MURAOKA Taro: one year report from vim-jp, and future of Vim.
         * <http://www.kaoriya.net/>
-<!--
-    * "To be a good programmer" with ujihisa
-    * "Illustrate Vim core source code, dissing" with KoRoN
-    * "The truth of Vim by unprecedented point of view" with ShougoMatsu
--->
+    * "(untitled)" with [kana](http://github.com/kana)
+    * "(untitled. about neobundle or vimfiler. no song." with ShougoMatsu
+    * "(untitled)" with ujihisa
 
 * Tech talks
     * "All about vital.vim" with [thinca](http://github.com/thinca)
@@ -22,8 +20,8 @@ An International Vim conference in Tokyo, Japan
     * "(untitled)" with [deris0126](http://github.com/deris)
     * "The whirlwind evolution of TweetVim" with [basyura](https://github.com/basyura)
 
-* Lightening talks
 <!--
+* Lightening talks
     * "Start Vim script" with choplin
     * "Vim-pep8" jbking
     * "My Unite plugins" with basyura
