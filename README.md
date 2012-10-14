@@ -7,6 +7,9 @@ An International Vim conference in Tokyo, Japan
 ## Talks
 
 * Keynotes
+    * "(untitled") by MURAOKA Taro a.k.a. Kaoriya
+        * MURAOKA Taro: one year report from vim-jp, and future of Vim.
+        * <http://www.kaoriya.net/>
 <!--
     * "To be a good programmer" with ujihisa
     * "Illustrate Vim core source code, dissing" with KoRoN
@@ -64,7 +67,3 @@ Core time: 1pm to 5pm
 <http://partake.in/events/7a8d6f41-53e1-47ca-b42c-3d0c18f7b900>
 
 Only 100 people can come in. Please sign up in advance.
-
-## Presenters
-
-  * MURAOKA Taro: one year report from vim-jp, and future of Vim.
