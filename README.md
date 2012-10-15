@@ -19,6 +19,7 @@ An International Vim conference in Tokyo, Japan
     * "Type conversions in Vim script" with [tyru](http://github.com/tyru)
     * "(untitled)" with [deris0126](http://github.com/deris)
     * "The whirlwind evolution of TweetVim" with [basyura](https://github.com/basyura)
+    * "Vim with tmux" with toku (absolute anonymousism)
 
 <!--
 * Lightening talks
