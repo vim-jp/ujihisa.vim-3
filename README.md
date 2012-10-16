@@ -11,7 +11,7 @@ An International Vim conference in Tokyo, Japan
         * MURAOKA Taro: one year report from vim-jp, and future of Vim.
         * <http://www.kaoriya.net/>
     * "(untitled)" with [kana](http://github.com/kana)
-    * "(untitled. about neobundle or vimfiler. no song." with ShougoMatsu
+    * "(untitled. about neobundle or vimfiler. no song.)" with ShougoMatsu
     * "(untitled)" with ujihisa
 
 * Tech talks
