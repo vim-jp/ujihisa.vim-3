@@ -20,6 +20,7 @@ An International Vim conference in Tokyo, Japan
     * "(untitled)" with [deris0126](http://github.com/deris)
     * "The whirlwind evolution of TweetVim" with [basyura](https://github.com/basyura)
     * "Vim with tmux" with toku (absolute anonymousism)
+    * "about regex" with [rbtnn](http://github.com/rbtnn)
 
 <!--
 * Lightening talks
