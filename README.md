@@ -10,7 +10,7 @@ An International Vim conference in Tokyo, Japan
     * "(untitled") with [MURAOKA Taro a.k.a. Kaoriya](http://github.com/koron)
         * MURAOKA Taro: one year report from vim-jp, and future of Vim.
         * <http://www.kaoriya.net/>
-    * "(untitled)" with [kana](http://github.com/kana)
+    * "How to become a practical Vim user" with [kana](http://github.com/kana)
     * "All about neobundle.vim" with [ShougoMatsu](http://github.com/shougo)
         * 30min
     * "(untitled)" with [ujihisa](http://github.com/ujihisa)
