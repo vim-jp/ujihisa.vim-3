@@ -13,9 +13,9 @@ An International Vim conference in Tokyo, Japan
     * "How to become a practical Vim user" with [kana](http://github.com/kana)
     * "All about neobundle.vim" with [ShougoMatsu](http://github.com/shougo)
         * 30min
-    * "(untitled)" with [ujihisa](http://github.com/ujihisa)
 
 * Tech talks
+    * "neosnippet" with [ujihisa](http://github.com/ujihisa)
     * "All about vital.vim" with [thinca](http://github.com/thinca)
     * "(untitled)" with [deris0126](http://github.com/deris)
     * "The whirlwind evolution of TweetVim" with [basyura](https://github.com/basyura)
