@@ -22,6 +22,9 @@ An International Vim conference in Tokyo, Japan
     * "Vim with tmux" with toku (absolute anonymousism)
     * "about regex" with [rbtnn](http://github.com/rbtnn)
 
+* special
+    * "vimrc" with vimrc reading club (thinca and manga\_osyo)
+
 <!--
 * Lightening talks
     * "Start Vim script" with choplin
