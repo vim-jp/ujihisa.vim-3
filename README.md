@@ -17,7 +17,7 @@ An International Vim conference in Tokyo, Japan
 * Tech talks
     * "neosnippet" with [ujihisa](http://github.com/ujihisa)
     * "All about vital.vim" with [thinca](http://github.com/thinca)
-    * "(untitled)" with [deris0126](http://github.com/deris)
+    * "How to move cursor more effectively(for Beginner)" with [deris0126](http://github.com/deris)
     * "The whirlwind evolution of TweetVim" with [basyura](https://github.com/basyura)
     * "Vim with tmux" with toku (absolute anonymousism)
     * "about regex" with [rbtnn](http://github.com/rbtnn)
